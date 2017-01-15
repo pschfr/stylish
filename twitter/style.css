@@ -1,0 +1,20 @@
+/* Hides Moments tab */
+ul.nav li.moments {
+	display: none;
+}
+
+/* Hides Live Video section in sidebar */
+.LiveVideoHomePageModuleContainer {
+	display: none;
+}
+
+/* Hides promoted accounts, trends, and tweets */
+div.promoted-tweet {
+	display: none;
+}
+div.promoted-account {
+	display: none;
+}
+li.promoted-trend {
+	display: none;
+}
