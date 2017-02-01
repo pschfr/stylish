@@ -18,3 +18,15 @@ div.promoted-account {
 li.promoted-trend {
 	display: none;
 }
+
+/* Modifies the modal for opened images for larger display */
+.Gallery-content {
+	background-color: transparent;
+	min-height: 0 !important;
+}
+.Gallery-media {
+	border-radius: 6px;
+}
+.GalleryTweet {
+	display: none;
+}
