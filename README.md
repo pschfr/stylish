@@ -7,3 +7,5 @@ Stylish is a [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbm
 Each folder has a readme explaining what I fixed or adjusted.
 
 If you have any questions or ideas, please submit an [issue](https://github.com/pschfr/stylish/issues) or [pull request](https://github.com/pschfr/stylish/pulls). Also feel free to check out the [Projects](https://github.com/pschfr/stylish/projects/) tab to see my ideas.
+
+Also be sure to check out my [recommended styles](https://github.com/pschfr/stylish/blob/master/recommended.md), as well as [Tampermonkey](https://github.com/pschfr/tampermonkey), my custom JavaScript for other websites to change the functionality too!
