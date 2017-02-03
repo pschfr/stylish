@@ -1,3 +1,15 @@
+/* Sets the background image to a random nature image from Unsplash */
 body {
 	background: url('https://source.unsplash.com/category/nature/all') no-repeat center/cover fixed;
 }
+
+/* Changes the color of the background overlay when a note is open */
+.VIpgJd-TUo6Hb-xJ5Hnf.XKSfm-L9AdLc-AHe6Kc {
+	background-color: #333;
+}
+
+/* Hides Pinned and Other labels cause I know what they are */
+.neVct-LS81yb-tJHJj {
+	display: none;
+}
+
