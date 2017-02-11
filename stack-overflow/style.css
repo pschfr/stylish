@@ -1,0 +1,7 @@
+.so-header {
+	background-color: #efefef;
+	border-top: none;
+}
+.so-header .navigation .beta-badge {
+	display: none;
+}
