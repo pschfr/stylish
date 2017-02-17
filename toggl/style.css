@@ -1,0 +1,34 @@
+li.ListItem__item, .TimeEntryForm__newTimeEntry, .TimeEntryDescription__timeEntryDescription {
+	height: 45px;
+	line-height: 45px !important;
+}
+
+.TimeEntriesListItem__billable, .Duration__wrapper, .TimeEntryAutocompletePopdown__timeEntryDescription {
+	height: 45px !important;
+}
+
+ul.TimeEntriesList__list {
+	margin-bottom: 0;
+}
+
+.DayListItem__container {
+	padding: 10px 10px 10px 0;
+	height: auto;
+}
+
+.ProjectTotalsChart__chartRoot {
+	padding: 10px;
+}
+
+.ChartContainer__controls {
+	top: -25px;
+}
+
+.DayListItem__linkButton {
+	padding: 0 10px;
+}
+
+.Timer__button {
+	height: 35px;
+	width: 35px;
+}
