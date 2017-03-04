@@ -1,6 +1,6 @@
 .so-header {
 	background-color: #efefef;
-	border-top: none;
+	border-top-color: #efefef;
 }
 .so-header .navigation .beta-badge {
 	display: none;
