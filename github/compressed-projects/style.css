@@ -1,0 +1,19 @@
+/* Hides author name */
+.issue-card small {
+	display: none;
+}
+/* Hides card icon, removes extra padding */
+.issue-card {
+	padding-left: 8px !important;
+	margin: 4px 0;
+}
+.issue-card span.card-octicon {
+	display: none;
+}
+.issue-card p {
+	margin: 0;
+}
+/* Removes unneccessary padding around columns */
+.project-columns {
+	padding: 10px !important;
+}
