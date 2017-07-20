@@ -1,0 +1,3 @@
+video[autoplay]:not([muted]) {
+	display: none;
+}
